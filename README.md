@@ -2,6 +2,15 @@
 <h3 align="center">Flutter Developer • Mobile App Engineer • AI-Driven App Innovator</h3>
 <h4 align="center">Islamabad, Pakistan 🇵🇰</h4>
 
+<!-- 🎉 App UI Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HamzaCodes-Star/HamzaCodes/main/1.webp" width="19%" />
+  <img src="https://raw.githubusercontent.com/HamzaCodes-Star/HamzaCodes/main/2.webp" width="19%" />
+  <img src="https://raw.githubusercontent.com/HamzaCodes-Star/HamzaCodes/main/3.webp" width="19%" />
+  <img src="https://raw.githubusercontent.com/HamzaCodes-Star/HamzaCodes/main/4.webp" width="19%" />
+  <img src="https://raw.githubusercontent.com/HamzaCodes-Star/HamzaCodes/main/5.webp" width="19%" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -25,7 +34,7 @@ I enjoy blending mobile development with AI to create **smart, fast, and user-ce
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks:**  
-Flutter • Dart • Kotlin • JavaScript • Firebase • TensorFlow Lite • REST APIs
+Flutter • Dart • Kotlin  • Firebase • TensorFlow Lite • REST APIs
 
 **Tools & Platforms:**  
 Android Studio • Xcode • Git • Postman • Figma • VS Code

@@ -1,23 +1,22 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hamza Khan</h1>
-<h3 align="center">Flutter Developer | Mobile App Engineer | AI Enthusiast</h3>
+<h3 align="center">Flutter Developer | Mobile App Engineer</h3>
 <h4 align="center">Islamabad, Pakistan 🇵🇰</h4>
 
 ---
 
 ### 👨‍💻 About Me
-I’m a dedicated **Flutter Developer** with hands-on experience building mobile applications used by real users around the world. I specialize in creating **scalable, maintainable apps** with clean architecture, efficient state management, and smooth UI/UX. I’m passionate about integrating **AI & ML features** into mobile apps and constantly learning new technologies.
+I’m a passionate **Flutter Developer** with professional experience building and maintaining **mobile applications** used by real customers globally. I focus on clean architecture, performance optimization, and secure app features. Currently expanding into **AI-assisted mobile applications**.
 
-- 🔭 Currently building Flutter applications & exploring **AI/ML**
-- 🌱 Learning **iOS app development**
-- 👯 Open to collaboration on Flutter & cross-platform projects
-- 💬 Ask me about **Flutter, Dart, Firebase, Kotlin, AI integration**
-- 📫 Connect with me on LinkedIn
+- 🔭 Working on Flutter & mobile integration projects
+- 🌱 Learning AI / Machine Learning & iOS Development
+- 👯 Open to collaboration on Flutter & cross-platform development
+- 💬 Ask me about **Flutter, Dart, Firebase, Kotlin**
 
 ---
 
 ### 🔗 Connect With Me
-- 💼 LinkedIn: **https://www.linkedin.com/in/mhamzakhan-dev**
-- 💻 GitHub: **https://github.com/HamzaCodes-Star**
+- 💼 LinkedIn: https://www.linkedin.com/in/mhamzakhan-dev
+- 💻 GitHub: https://github.com/HamzaCodes-Star
 
 ---
 
@@ -27,73 +26,88 @@ I’m a dedicated **Flutter Developer** with hands-on experience building mobile
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
 </p>
 
 ---
 
-### 📱 Deployed Android Apps
+## 📱 Deployed Android Applications
 
-Here are some of the real applications I’ve worked on that are **live on Google Play Store**:
-
-#### 🔹 **Mixx Tanzania**
-- 💡 A mobile money wallet app for secure and fast financial transactions.
-- 🚀 Users can link up to 5 accounts, send money, use mini-apps, and pay with QR codes.
-- 📍 Built as part of a finance ecosystem covering payments, bundles, and corporate solutions. :contentReference[oaicite:0]{index=0}
-- 📱 Play Store: https://play.google.com/store/apps/details?id=tz.tigo.mfsapp
-
----
-
-#### 🔹 **TMoney / Mixx by Yas (Togo)**
-- 💡 A mobile money platform enabling users to send/receive money, pay bills, and buy plans securely.
-- 🔐 Features include biometric login, PIN protection, and transaction history.
-- 📍 Simplifies mobile money operations for users across Togo. :contentReference[oaicite:1]{index=1}
-- 📱 Play Store: https://play.google.com/store/apps/details?id=tg.togocom.tmoney
+### 🔹 **Mixx Tanzania**
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=tz.tigo.mfsapp">
+    <img src="https://play.google.com/thumbnail?authuser=0&sz=w800-h500&id=tz.tigo.mfsapp" alt="Mixx Tanzania Screenshot" width="300"/>
+  </a>
+</p>
+- A financial mobile wallet app for fast, secure financial transactions — balance checks, transfers, bill payments, and more. :contentReference[oaicite:0]{index=0}  
+- Play Store: https://play.google.com/store/apps/details?id=tz.tigo.mfsapp
 
 ---
 
-#### 🔹 **Yas & Moi**
-- 💡 A utility app to access various services offered by the Yas telecom network.
-- 📊 Allows sending offers/credit, managing contacts, and accessing customer support.
-- 📍 Simple app for everyday mobile service operations. :contentReference[oaicite:2]{index=2}
-- 📱 Play Store: https://play.google.com/store/apps/details?id=mg.telma.telmaetmoi
+### 🔹 **TMoney (Togo)**
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=tg.togocom.tmoney">
+    <img src="https://play.google.com/thumbnail?authuser=0&sz=w800-h500&id=tg.togocom.tmoney" alt="TMoney Screenshot" width="300"/>
+  </a>
+</p>
+- Mobile money platform for secure transfers, bill payments, and account management. :contentReference[oaicite:1]{index=1}  
+- Play Store: https://play.google.com/store/apps/details?id=tg.togocom.tmoney
 
 ---
 
-#### 🔹 **MyACE (Sigi Technologies)**
-- 💡 App for end users providing account access and services (deployed on Play Store).
-- 📱 Play Store: https://play.google.com/store/apps/details?id=com.sigitechnologies.myaceupdated
+### 🔹 **Yas & Moi**
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=mg.telma.telmaetmoi">
+    <img src="https://play.google.com/thumbnail?authuser=0&sz=w800-h500&id=mg.telma.telmaetmoi" alt="Yas & Moi Screenshot" width="300"/>
+  </a>
+</p>
+- A utility app for accessing telecom services and account operations. :contentReference[oaicite:2]{index=2}  
+- Play Store: https://play.google.com/store/apps/details?id=mg.telma.telmaetmoi
 
 ---
 
-#### 🔹 **TigoPesa Keyboard**
-- 💡 A custom keyboard app tailored for TigoPesa users.
-- 📱 Play Store: https://play.google.com/store/apps/details?id=tz.tigopesa.keyboard
+### 🔹 **MyACE (Sigi Technologies)**
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.sigitechnologies.myaceupdated">
+    <img src="https://play.google.com/thumbnail?authuser=0&sz=w800-h500&id=com.sigitechnologies.myaceupdated" alt="MyACE Screenshot" width="300"/>
+  </a>
+</p>
+- A utility app for user account access and service management.  
+- Play Store: https://play.google.com/store/apps/details?id=com.sigitechnologies.myaceupdated
 
 ---
 
-### 🚀 Featured Projects
-**AI-Enhanced Emotion Scanner (Concept)**
-- Prototype using **FER-2013 emotion dataset**
-- Built with **Teachable Machine** for real-time emotion detection
-- Integrated concept for use in Flutter apps
-> ⚠️ This project is for educational/experimental use and not a clinical diagnostic tool.
+### 🔹 **TigoPesa Keyboard**
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=tz.tigopesa.keyboard">
+    <img src="https://play.google.com/thumbnail?authuser=0&sz=w800-h500&id=tz.tigopesa.keyboard" alt="TigoPesa Keyboard Screenshot" width="300"/>
+  </a>
+</p>
+- A custom keyboard enabling money transactions without leaving chats. :contentReference[oaicite:3]{index=3}  
+- Play Store: https://play.google.com/store/apps/details?id=tz.tigopesa.keyboard
+
+---
+
+### 🧠 Featured Project
+**AI Emotion Scanner (Prototype)**
+- Real-time facial emotion recognition using **FER-2013** dataset.
+- Built with **Teachable Machine** and designed for Flutter.
+> ⚠️ Educational & experimental — not a clinical diagnosis tool.
 
 ---
 
 ### 📊 GitHub Stats
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HamzaCodes-Star&show_icons=true&theme=tokyonight" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-lang/?username=HamzaCodes-Star&layout=compact&theme=tokyonight" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=HamzaCodes-Star&theme=tokyonight" />
 </p>
 

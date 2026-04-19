@@ -86,7 +86,7 @@ We may update this policy and the **Last updated** date. We may notify you for m
 
 ## 11 · Contact
 
-**Privacy:** replace with your real email → `privacy@duodesire.com`
+**Privacy:** [duodesireofficial@gmail.com](mailto:duodesireofficial@gmail.com)
 
 ---
 

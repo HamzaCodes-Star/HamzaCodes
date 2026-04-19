@@ -78,7 +78,7 @@ These Terms follow the laws that apply to **you** or, where allowed, our place o
 
 ## 12 · Contact
 
-**Questions:** replace with your real email → `support@duodesire.com`
+**Questions:** [duodesireofficial@gmail.com](mailto:duodesireofficial@gmail.com)
 
 ---
 
